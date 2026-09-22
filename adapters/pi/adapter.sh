@@ -39,10 +39,10 @@ _pi_emit_package_json() {
   "description": "Pi package for obsidian-second-brain: prompt templates and skill to operate an Obsidian vault as a self-rewriting second brain.",
   "keywords": ["pi-package", "obsidian", "second-brain", "pkm"],
   "license": "MIT",
-  "author": "Eugeniu Ghelbur",
+  "author": "alhaol",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eugeniughelbur/obsidian-second-brain.git"
+    "url": "https://github.com/alhaol/obsidian-second-brain.git"
   },
   "pi": {
     "prompts": [".pi/prompts"],
@@ -180,7 +180,7 @@ _pi_emit_install_hint() {
 Build the Pi package from the repo:
 
 ```bash
-git clone https://github.com/eugeniughelbur/obsidian-second-brain.git
+git clone https://github.com/alhaol/obsidian-second-brain.git
 cd obsidian-second-brain
 bash scripts/build.sh --platform pi
 ```

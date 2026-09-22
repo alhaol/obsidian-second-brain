@@ -24,8 +24,8 @@ authors:
     email: "e.ghelbur@gmail.com"
 type: software
 license: MIT
-repository-code: "https://github.com/eugeniughelbur/obsidian-second-brain"
-url: "https://github.com/eugeniughelbur/obsidian-second-brain"
+repository-code: "https://github.com/alhaol/obsidian-second-brain"
+url: "https://github.com/alhaol/obsidian-second-brain"
 version: "0.16.0"
 date-released: "2026-09-15"
 keywords:

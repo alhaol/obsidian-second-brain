@@ -14,16 +14,14 @@ plugins:
   - jekyll-sitemap
 
 # SEO
-url: https://eugeniughelbur.github.io
+url: https://alhaol.github.io
 baseurl: /obsidian-second-brain
 twitter:
-  username: eugeniughelbur
   card: summary_large_image
 social:
-  name: Eugeniu Ghelbur
+  name: alhaol
   links:
-    - https://github.com/eugeniughelbur
-    - https://www.linkedin.com/in/eugeniu-ghelbur/
+    - https://github.com/alhaol
 
 # Don't ship internal docs as pages
 exclude:

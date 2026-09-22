@@ -70,7 +70,7 @@ Scan the structure to understand: folder names, template locations, naming conve
 If the user has no vault yet, run:
 ```bash
 # One-line install + bootstrap (asks 3 questions: vault path, your name, preset)
-curl -sL https://raw.githubusercontent.com/eugeniughelbur/obsidian-second-brain/main/scripts/quick-install.sh | bash
+curl -sL https://raw.githubusercontent.com/alhaol/obsidian-second-brain/main/scripts/quick-install.sh | bash
 
 # Or manual:
 python scripts/bootstrap_vault.py --path ~/path/to/vault --name "Your Name"

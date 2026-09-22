@@ -22,7 +22,7 @@
 HERMES_PLATFORM="hermes"
 HERMES_DIR="hermes"
 HERMES_SKILLS_DIR="skills"
-HERMES_AUTHOR="Eugeniu Ghelbur"
+HERMES_AUTHOR="alhaol"
 HERMES_LICENSE="MIT"
 
 # Where INSTALL.md below tells the user to copy the tree, and therefore the only

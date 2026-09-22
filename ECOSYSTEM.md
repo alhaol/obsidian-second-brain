@@ -27,7 +27,7 @@ Forks contribute back the generic primitives that came out of their domain work.
 
 ## How to be added
 
-If you have built a domain-specific fork that meaningfully extends the pattern, open a discussion in [this repo's Discussions tab](https://github.com/eugeniughelbur/obsidian-second-brain/discussions) and link to:
+If you have built a domain-specific fork that meaningfully extends the pattern, open a discussion in [this repo's Discussions tab](https://github.com/alhaol/obsidian-second-brain/discussions) and link to:
 
 1. Your fork's repository
 2. A short description of the domain it serves

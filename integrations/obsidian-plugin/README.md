@@ -45,6 +45,6 @@ enable it in Settings.
 ## Relationship to obsidian-second-brain
 
 This is the spec's checks, standing alone. The
-[full project](https://github.com/eugeniughelbur/obsidian-second-brain) enforces
+[full project](https://github.com/alhaol/obsidian-second-brain) enforces
 the same rules at write time across eight CLI agents and adds retrieval,
 research and scheduled maintenance. You do not need any of it to use this.

@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/eugeniughelbur/obsidian-second-brain">
+  <a href="https://github.com/alhaol/obsidian-second-brain">
     <img src="media/banner.png" alt="obsidian-second-brain: one brain, eight platforms, 47 commands. A cross-platform skill for Obsidian that runs on Claude Code, Codex, Gemini, OpenCode, Antigravity, Hermes, Pi, and Grok Bot." width="100%" />
   </a>
 </p>
@@ -20,10 +20,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Obsidian-Vault-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian Vault" />
-  <img src="https://img.shields.io/github/v/release/eugeniughelbur/obsidian-second-brain?style=for-the-badge&color=green" alt="Release" />
+  <img src="https://img.shields.io/github/v/release/alhaol/obsidian-second-brain?style=for-the-badge&color=green" alt="Release" />
   <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="License: MIT" />
-  <img src="https://img.shields.io/github/stars/eugeniughelbur/obsidian-second-brain?style=for-the-badge&color=yellow" alt="Stars" />
-  <a href="https://github.com/sponsors/eugeniughelbur"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor" /></a>
+  <img src="https://img.shields.io/github/stars/alhaol/obsidian-second-brain?style=for-the-badge&color=yellow" alt="Stars" />
 </p>
 
 <h1 align="center">obsidian-second-brain: AI second brain for Obsidian - persistent memory for Claude Code and Grok Bot</h1>
@@ -51,7 +50,7 @@
   <a href="#45-commands">All commands</a> &middot;
   <a href="#choose-your-preset">Presets</a> &middot;
   <a href="#the-vault-is-alive">OKM</a> &middot;
-  <a href="https://github.com/eugeniughelbur/obsidian-second-brain/discussions">Discussions</a>
+  <a href="https://github.com/alhaol/obsidian-second-brain/discussions">Discussions</a>
 </p>
 
 <p align="center">
@@ -61,7 +60,7 @@
   <br />
   <em>One <code>/obsidian-save</code> - five cross-linked notes. Real footage, synthetic vault. <a href="DEMOS.md">More demos &rarr;</a></em>
   <br /><br />
-  <em>If this looks useful, <a href="https://github.com/eugeniughelbur/obsidian-second-brain">star the repo</a>. It is how other people find it.</em>
+  <em>If this looks useful, <a href="https://github.com/alhaol/obsidian-second-brain">star the repo</a>. It is how other people find it.</em>
 </p>
 
 <p align="center">
@@ -168,21 +167,17 @@ Free transcript via youtube-transcript-api. Optional metadata + top comments via
 *The product is above. This is where it came from and where it goes next.*
 
 <p align="center">
-  <strong>From the blog</strong> &middot; <a href="https://theaioperator.io">The AI Operator &rarr;</a>
 </p>
 
 <p align="center">
-  <strong>Featured:</strong> <a href="https://theaioperator.io/p/huge-update-on-obsidian-second-brain">"HUGE update on obsidian-second-brain: The Architect"</a><br />
   <em><code>/obsidian-architect</code> &middot; document your codebase into your vault &middot; the full before-and-after</em>
 </p>
 
 <p align="center">
-  <strong>Deep dive:</strong> <a href="https://theaioperator.io/p/i-rebuilt-karpathys-llm-wiki-heres">"I rebuilt Karpathy's LLM Wiki. Here's what's missing from the original."</a><br />
   <em>Why append-only breaks at scale &middot; the AI-First Vault Principle &middot; three bugs in v1</em>
 </p>
 
 <p align="center">
-  <strong>Origin story:</strong> <a href="https://theaioperator.io/p/i-built-this-for-myself-then-1374">"I built this for myself. Then 1,374 strangers cloned it."</a><br />
   <em>Two disconnected tools &middot; the institutional-amnesia problem &middot; 1,000+ stars in 7 weeks</em>
 </p>
 
@@ -202,7 +197,7 @@ Free transcript via youtube-transcript-api. Optional metadata + top comments via
 </p>
 
 <p align="center">
-  Built by <a href="https://github.com/eugeniughelbur"><strong>Eugeniu Ghelbur</strong></a> &middot; AI Automation Engineer @ Single Grain<br />
+  Fork maintained by <a href="https://github.com/alhaol"><strong>alhaol</strong></a> &middot; originally built by <a href="https://github.com/eugeniughelbur">Eugeniu Ghelbur</a><br />
   <em>building in public &middot; sharing what works</em>
 </p>
 
@@ -214,12 +209,9 @@ Free transcript via youtube-transcript-api. Optional metadata + top comments via
 
 ### Follow along
 
-*Weekly posts on AI second-brain systems, vault patterns, and what actually works.*
+*Fork development happens in the open - commands, vault patterns, and what actually works.*
 
-<a href="https://x.com/eugeniu_ghelbur"><img src="https://img.shields.io/badge/Follow_on_X-000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>
-<a href="https://www.linkedin.com/in/eugeniu-ghelbur/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="Connect on LinkedIn" /></a>
-<a href="https://theaioperator.io"><img src="https://img.shields.io/badge/Subscribe_on_Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Subscribe on Substack" /></a>
-<a href="https://github.com/eugeniughelbur"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+<a href="https://github.com/alhaol"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
 
 </td>
 </tr>
@@ -639,7 +631,7 @@ Rather than ask you to take that on faith, here is what each build currently pas
 **Native plugin install (recommended).** Inside any Claude Code session:
 
 ```
-/plugin marketplace add eugeniughelbur/obsidian-second-brain
+/plugin marketplace add alhaol/obsidian-second-brain
 /plugin install obsidian-second-brain@obsidian-second-brain
 ```
 
@@ -656,18 +648,18 @@ Restart Claude Code, then run `/obsidian-second-brain:obsidian-init` inside your
 **Classic install (script).** Use this if you want the commands as bare names (`/obsidian-init`, `/research`, ...) or you are developing the skill and want live edits. One line (clones the skill, installs the slash commands, registers the session-context hook, and offers the research env):
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/eugeniughelbur/obsidian-second-brain/main/scripts/quick-install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/alhaol/obsidian-second-brain/main/scripts/quick-install.sh | bash
 ```
 
 Or step by step:
 
 ```bash
-git clone https://github.com/eugeniughelbur/obsidian-second-brain ~/.claude/skills/obsidian-second-brain
+git clone https://github.com/alhaol/obsidian-second-brain ~/.claude/skills/obsidian-second-brain
 bash ~/.claude/skills/obsidian-second-brain/install.sh
 bash ~/.claude/skills/obsidian-second-brain/scripts/setup.sh "/path/to/your/vault"
 ```
 
-> Cloning it? A [star](https://github.com/eugeniughelbur/obsidian-second-brain) costs you nothing and is how the next person finds this.
+> Cloning it? A [star](https://github.com/alhaol/obsidian-second-brain) costs you nothing and is how the next person finds this.
 
 **No vault yet?** Create a ready-to-use one first (folders, templates, boards, dashboards - passes its own health check out of the box):
 
@@ -684,7 +676,7 @@ Then open Claude Code and run `/obsidian-init` inside your vault.
 > **Codex and OpenCode users: prefer the [Agent Skills build](#google-antigravity-and-any-agentsskills-harness) below.** The standalone `codex-cli` and `opencode` builds are deprecated and superseded by it; both print that notice in their own `INSTALL.md`. They still work, and will until they are removed. Gemini CLI has no replacement build, so this is the right path there.
 
 ```bash
-git clone https://github.com/eugeniughelbur/obsidian-second-brain
+git clone https://github.com/alhaol/obsidian-second-brain
 cd obsidian-second-brain
 bash scripts/build.sh --platform codex-cli   # or gemini-cli, or opencode
 cp -R dist/codex-cli/. /path/to/your/vault/   # or dist/gemini-cli/. or dist/opencode/.
@@ -701,7 +693,7 @@ Run `bash scripts/build.sh` with no arguments to build every platform at once. S
 Antigravity, Codex CLI, OpenCode, and GitHub Copilot CLI have all converged on the open [Agent Skills](https://github.com/vercel-labs/skills) standard: workspace skills at `.agents/skills/<name>/SKILL.md`. The `agent-skills` build emits one spec-compliant tree they all read - and any future harness on the same standard works with zero repo changes.
 
 ```bash
-git clone https://github.com/eugeniughelbur/obsidian-second-brain
+git clone https://github.com/alhaol/obsidian-second-brain
 cd obsidian-second-brain
 bash scripts/build.sh --platform agent-skills
 
@@ -716,7 +708,7 @@ Each command becomes a skill under `.agents/skills/`; a shared `obsidian-core` s
 ### Pi Coding Agent
 
 ```bash
-git clone https://github.com/eugeniughelbur/obsidian-second-brain
+git clone https://github.com/alhaol/obsidian-second-brain
 cd obsidian-second-brain
 bash scripts/build.sh --platform pi
 pi install ./dist/pi          # or: cp -R dist/pi/.pi/ /path/to/your/vault/
@@ -727,7 +719,7 @@ The **Pi build emits a native [Pi](https://pi.dev) package**: prompt templates u
 ### Grok Bot / Sand
 
 ```bash
-git clone https://github.com/eugeniughelbur/obsidian-second-brain
+git clone https://github.com/alhaol/obsidian-second-brain
 cd obsidian-second-brain
 bash scripts/build.sh --platform grok-bot
 # Review dist/grok-bot/INSTALL.md for platform-specific instructions
@@ -908,13 +900,13 @@ cd ~/.claude/skills/obsidian-second-brain && git pull
 On Linux/macOS: nothing else to run - slash commands are symlinked so they pick up the new files automatically. On Windows: also run `bash update.sh` to refresh the copied command files. Restart Claude Code after either path. See [CHANGELOG.md](CHANGELOG.md) for what's in each release.
 
 ### Where do I file issues or feature requests?
-Command reference: https://eugeniughelbur.github.io/obsidian-second-brain/ - every command, with the plain-language phrases that trigger it in English, Spanish, Portuguese and Simplified Chinese.
+Command reference: https://alhaol.github.io/obsidian-second-brain/ - every command, with the plain-language phrases that trigger it in English, Spanish, Portuguese and Simplified Chinese.
 
 Retrieval benchmark: [scripts/eval/BENCHMARK.md](scripts/eval/BENCHMARK.md) - a reproducible 300-note synthetic corpus and three query sets, so the search numbers are something you can run yourself rather than something this README claims.
 
 The rule on its own: [AI-FIRST.md](AI-FIRST.md) - the note spec as a 50-line block you can paste into any `CLAUDE.md` or `AGENTS.md`. Installs nothing, works without this project, keep the attribution line.
 
-GitHub Issues: https://github.com/eugeniughelbur/obsidian-second-brain/issues. PRs welcome, see Contributing below.
+GitHub Issues: https://github.com/alhaol/obsidian-second-brain/issues. PRs welcome, see Contributing below.
 
 ---
 
@@ -934,7 +926,7 @@ Inspired by [Andrey Karpathy's LLM-Wiki](https://gist.github.com/karpathy/442a6b
 
 ## Contributing
 
-**Want a specific place to start?** [Good first issues](https://github.com/eugeniughelbur/obsidian-second-brain/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) are scoped to name the exact files and lines, what to watch out for, and how big the change is. They range from adding trigger phrases in a language you speak (no Python at all) to a one-command lint fix to a new slash command. Comment on one to claim it.
+**Want a specific place to start?** [Good first issues](https://github.com/alhaol/obsidian-second-brain/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) are scoped to name the exact files and lines, what to watch out for, and how big the change is. They range from adding trigger phrases in a language you speak (no Python at all) to a one-command lint fix to a new slash command. Comment on one to claim it.
 
 PRs welcome more generally:
 - New thinking tools
@@ -951,21 +943,13 @@ Customizing your own fork? Copy [`references/DELTAS.template.md`](references/DEL
 
 ### Contributors
 
-This project is maintained by one person but built with many. 18+ external contributors have landed merged PRs - security fixes, platform ports (Pi came from a contributor), Windows compatibility, translations, and the first automated test. Ideas from closed or stalled PRs get reimplemented with the original author credited as co-author rather than dropped. See the full list on the [contributors graph](https://github.com/eugeniughelbur/obsidian-second-brain/graphs/contributors).
+This project is maintained by one person but built with many. 18+ external contributors have landed merged PRs - security fixes, platform ports (Pi came from a contributor), Windows compatibility, translations, and the first automated test. Ideas from closed or stalled PRs get reimplemented with the original author credited as co-author rather than dropped. See the full list on the [contributors graph](https://github.com/alhaol/obsidian-second-brain/graphs/contributors).
 
 If your PR goes quiet mid-review, that is normal life - the idea stays on the table, and if it lands later you stay on the commit.
 
 ---
 
-## Sponsors
-
-Sponsorships help fund ongoing development of obsidian-second-brain: new commands, research-toolkit API costs, and ongoing maintenance.
-
-[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-eugeniughelbur-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/eugeniughelbur)
-
----
-
-## Author
+## Maintainer
 
 <div align="center">
 
@@ -973,14 +957,13 @@ Sponsorships help fund ongoing development of obsidian-second-brain: new command
 <tr>
 <td align="center" width="700">
 
-Built by **Eugeniu Ghelbur**, AI Automation Engineer @ Single Grain
+This fork is maintained by **[alhaol](https://github.com/alhaol)**.
+
+Originally created by **[Eugeniu Ghelbur](https://github.com/eugeniughelbur)** ([upstream repo](https://github.com/eugeniughelbur/obsidian-second-brain)) and used here under the MIT license.
 
 *If this skill helped you, the best thanks is following along.*
 
-<a href="https://x.com/eugeniu_ghelbur"><img src="https://img.shields.io/badge/Follow_on_X-000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>
-<a href="https://www.linkedin.com/in/eugeniu-ghelbur/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="Connect on LinkedIn" /></a>
-<a href="https://theaioperator.io"><img src="https://img.shields.io/badge/Subscribe_on_Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Subscribe on Substack" /></a>
-<a href="https://github.com/eugeniughelbur"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+<a href="https://github.com/alhaol"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
 
 </td>
 </tr>

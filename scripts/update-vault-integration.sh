@@ -25,7 +25,7 @@ set -Eeuo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
-UPSTREAM_SLUG="eugeniughelbur/obsidian-second-brain"
+UPSTREAM_SLUG="alhaol/obsidian-second-brain"
 BACKUP_ROOT="${XDG_CACHE_HOME:-$HOME/.cache}/obsidian-second-brain/backups"
 
 VAULT=""

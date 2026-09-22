@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "minAppVersion": "1.5.0",
   "description": "Check your vault against the AI-First note spec: preambles, frontmatter, and undated external claims. Finds the notes an AI agent cannot use.",
-  "author": "Eugeniu Ghelbur",
-  "authorUrl": "https://github.com/eugeniughelbur/obsidian-second-brain",
+  "author": "alhaol",
+  "authorUrl": "https://github.com/alhaol/obsidian-second-brain",
   "isDesktopOnly": false
 }

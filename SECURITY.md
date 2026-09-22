@@ -6,7 +6,7 @@ Thanks for helping keep obsidian-second-brain and its users safe.
 
 If you find a security issue in this skill, **do not open a public GitHub issue.** Email it directly to:
 
-**e.ghelbur@gmail.com**
+**iabualhaol@gmail.com**
 
 Please include:
 
@@ -50,7 +50,7 @@ If your report leads to a fix, you'll be credited in the release notes for the v
 
 ## Summary
 
-- **Email:** e.ghelbur@gmail.com
+- **Email:** iabualhaol@gmail.com
 - **Do not** open a public issue for a vulnerability
 - **Do** include reproduction steps and version info
 - **Coordinated disclosure** - we'll work with you on the timeline

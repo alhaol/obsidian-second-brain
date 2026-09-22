@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # One-line installer for obsidian-second-brain (Claude Code).
-#   curl -fsSL https://raw.githubusercontent.com/eugeniughelbur/obsidian-second-brain/main/scripts/quick-install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/alhaol/obsidian-second-brain/main/scripts/quick-install.sh | bash
 #
 # What it does (idempotent, nothing destructive):
 #   1. Checks prerequisites (git; uv recommended for the Python helpers)
@@ -25,7 +25,7 @@ case "$(uname -s 2>/dev/null)" in
   *) OSB_WIN=0; OSB_HOME="$HOME" ;;
 esac
 SKILL_HOME="$OSB_HOME/.claude/skills/obsidian-second-brain"
-REPO_URL="https://github.com/eugeniughelbur/obsidian-second-brain"
+REPO_URL="https://github.com/alhaol/obsidian-second-brain"
 
 command -v git >/dev/null 2>&1 || { echo "Error: git is required. Install git and re-run." >&2; exit 1; }
 if ! command -v uv >/dev/null 2>&1; then

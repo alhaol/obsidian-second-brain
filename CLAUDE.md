@@ -89,4 +89,4 @@ If you change an adapter's output layout, update the matching assertion in `test
 - Do not add emojis to command files or vault output (unless explicitly part of a UI element like a kanban column emoji).
 - Do not invent rates, dates, or relationships when writing project notes - mark unknowns as `TBD`.
 - **Contributors:** do not push to `main` directly - open a PR.
-- **Maintainer (Eugeniu) and Claude assisting him:** may push to `main` directly when working solo. PRs are optional, not mandatory.
+- **Fork maintainer (alhaol) and Claude assisting them:** may push to `main` directly when working solo. PRs are optional, not mandatory.

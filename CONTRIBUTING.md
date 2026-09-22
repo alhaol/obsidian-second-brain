@@ -4,7 +4,7 @@ Thanks for your interest in contributing! This skill exists because the people w
 
 This guide explains **how to contribute** so your work lands fast.
 
-**Looking for somewhere to start?** The [good first issues](https://github.com/eugeniughelbur/obsidian-second-brain/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) each name the exact files and lines, flag what to watch out for, and say how big the change is, so the "where do I even stand" part is already done. Comment on one to claim it. Adding trigger phrases in a language you speak needs no Python.
+**Looking for somewhere to start?** The [good first issues](https://github.com/alhaol/obsidian-second-brain/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) each name the exact files and lines, flag what to watch out for, and say how big the change is, so the "where do I even stand" part is already done. Comment on one to claim it. Adding trigger phrases in a language you speak needs no Python.
 
 **Use one of the non-Claude builds?** Seven platform builds are compiled from one source tree, and one person maintains all seven while being able to test two. [adapters/OWNERS.md](adapters/OWNERS.md) lists every build and how to claim one. The qualification is using the platform; your handle then ships inside that build.
 
@@ -13,8 +13,8 @@ This guide explains **how to contribute** so your work lands fast.
 ## Before you start
 
 1. **Be respectful.** This project follows a [Code of Conduct](CODE_OF_CONDUCT.md). Disagreement is welcome; rudeness is not.
-2. **Search first.** Check [open issues](https://github.com/eugeniughelbur/obsidian-second-brain/issues) and [discussions](https://github.com/eugeniughelbur/obsidian-second-brain/discussions). Someone may already be working on what you're proposing.
-3. **For ideas / questions / "what if..."**, prefer [Discussions](https://github.com/eugeniughelbur/obsidian-second-brain/discussions). Issues are for concrete bugs or feature proposals.
+2. **Search first.** Check [open issues](https://github.com/alhaol/obsidian-second-brain/issues) and [discussions](https://github.com/alhaol/obsidian-second-brain/discussions). Someone may already be working on what you're proposing.
+3. **For ideas / questions / "what if..."**, prefer [Discussions](https://github.com/alhaol/obsidian-second-brain/discussions). Issues are for concrete bugs or feature proposals.
 
 ---
 
@@ -23,8 +23,8 @@ This guide explains **how to contribute** so your work lands fast.
 - 📜 [AI-first vault rule](references/ai-first-rules.md) - required reading before adding any command that writes to the vault
 - 📖 [SKILL.md](SKILL.md) - the operating manual for Claude
 - 🏗 [architecture.md](architecture.md) - how the layers fit together
-- 🐛 [Bug report form](https://github.com/eugeniughelbur/obsidian-second-brain/issues/new?template=bug_report.yml)
-- ✨ [Feature request form](https://github.com/eugeniughelbur/obsidian-second-brain/issues/new?template=feature_request.yml)
+- 🐛 [Bug report form](https://github.com/alhaol/obsidian-second-brain/issues/new?template=bug_report.yml)
+- ✨ [Feature request form](https://github.com/alhaol/obsidian-second-brain/issues/new?template=feature_request.yml)
 
 ---
 
@@ -32,7 +32,7 @@ This guide explains **how to contribute** so your work lands fast.
 
 ```bash
 # Clone the repo
-git clone https://github.com/eugeniughelbur/obsidian-second-brain ~/Projects/obsidian-second-brain
+git clone https://github.com/alhaol/obsidian-second-brain ~/Projects/obsidian-second-brain
 cd ~/Projects/obsidian-second-brain
 
 # Install Python deps via uv (auto-creates .venv)
@@ -228,10 +228,10 @@ uv run -m scripts.research.x_read "https://x.com/some/post"
 
 ## Getting help
 
-- **Questions about how to use a command:** [Discussions Q&A](https://github.com/eugeniughelbur/obsidian-second-brain/discussions/categories/q-a)
-- **Showcase your vault setup:** [Discussions Show & Tell](https://github.com/eugeniughelbur/obsidian-second-brain/discussions/categories/show-and-tell)
-- **Bugs:** [bug report form](https://github.com/eugeniughelbur/obsidian-second-brain/issues/new?template=bug_report.yml)
-- **Direct contact (private / security):** see [SECURITY.md](SECURITY.md) (when added) or DM [@eugeniu_ghelbur](https://x.com/eugeniu_ghelbur)
+- **Questions about how to use a command:** [Discussions Q&A](https://github.com/alhaol/obsidian-second-brain/discussions/categories/q-a)
+- **Showcase your vault setup:** [Discussions Show & Tell](https://github.com/alhaol/obsidian-second-brain/discussions/categories/show-and-tell)
+- **Bugs:** [bug report form](https://github.com/alhaol/obsidian-second-brain/issues/new?template=bug_report.yml)
+- **Direct contact (private / security):** see [SECURITY.md](SECURITY.md)
 
 ---
 
